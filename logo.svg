@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" fill="none">
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(0, 10)">
+    <!-- G letter form -->
+    <path d="M20 50 C20 30 35 20 50 20 C65 20 80 30 80 50 L80 60 L50 60 M50 50 L75 50" 
+          stroke="url(#brandGrad)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- T letter form -->
+    <path d="M95 20 L135 20 M115 20 L115 80" 
+          stroke="url(#brandGrad)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <!-- M letter form -->
+    <path d="M150 80 L150 20 L170 50 L190 20 L190 80" 
+          stroke="url(#brandGrad)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <text x="210" y="72" font-family="'Inter','SF Pro Display',-apple-system,sans-serif" font-size="42" font-weight="700" fill="#0f172a" letter-spacing="-1">aigtm</text>
+</svg>

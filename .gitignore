@@ -1,0 +1,14 @@
+node_modules/
+.vscode/
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+dist/
+build/
+.cache/
+*.map
+*.local
+Thumbs.db
+desktop.ini
